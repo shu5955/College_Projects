@@ -1,2 +1,2 @@
-# College_Projects
+# College Projects
 Some Iowa State Projects
