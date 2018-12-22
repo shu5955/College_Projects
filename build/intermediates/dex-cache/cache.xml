@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-core-1.1_23a0b387539f508433ddce527680dcc7bd58fc09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c72b77621a4cf287c752075da51cac8a712fe2c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="447a7cf4075ef0557ac55cba5614828e739e997c">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8d5f98c9d782c845443ee1a46155db29989ce6be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/42ace16a057d934739dd1d7c346881df7a35e192/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8743143d6ffc62d8921a72e7fb56ead10901cc07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/d5b9191f82444f9997ddfad8ad7d55b84e62537c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e906ed08f6b95409668009ba6748c7bdfca1e141/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/df678da140ef9d42762d2a2ca05f4ade6efd9d6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef0a39d1f54302066987479ba9b8d6aef213a210/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.5/69e0a0caed0a1a25cdaf93f8fb5ba0e8d5e4f953/mockito-core-1.10.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69e0a0caed0a1a25cdaf93f8fb5ba0e8d5e4f953">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/mockito-core-1.10.5_97196ca1be5ea73370dfabbedfbdf16f51f15d89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_ea3616545b29dd1c717db6828eaff2e49a3699d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/4af704d13ad6a22d1c9587a73f08862bb8ce9ed9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7040fe29d21d6f5b05452e34a5642b5a5db1f2af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/733b86206f076e8afa52e2aaf33f98e927df0acc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67329eed3352750d30f3cfa5c1458106557bb2df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/5be11dfabb680a02d29678eee39225df716f6be6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f67045486e5066d744ae37a8e793aa4166ef3dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/junit-4.12_440fb367a55e83796dbbad0654a518129e54f4c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/94ac010a3aad55fb0f1f5211da57243267a53739/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79ee99695f07af029bff02d06ed890c90729ce49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/bba53d6c0126f14891a871dfebc19a7db9a94854/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45793ff07ca0211b068e33f61372b3407b2c7f5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/c29817b93506038bf6a79660b0561432bc5d6f81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_696babea2a04d77c16e7172311f8ca86f9579bbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/ceeaf7bb97080353b55ac3b3f0d479a37255324f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c69963c85668e7abfa748b81d1d5d1cba83f35c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/c5af89ffe40e80fe50c0280893728620918362bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac4032e1bededb3ae624c490fa05597092b1b39d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/fda203c6e595c39ea5a5bf022a5a896939d1ce10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_434147988344dc6fb73a85b73070e2b9518a25d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/fd3596ef765fd52f55add8a6e23c3d05eb921bc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92ea6edb8aad06af69c112ab9b1e66b46877edf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/45b77b9b69e085f24fbded16524600f3ba05a45f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f342db1e37823d957933ff44498c34b5b53adb11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/b1865b359b9eacff76d870c2b010742ad393fa52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_650538ceb81ed26d02bf5e8a1360c3b54d903d8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/26f599927e61816a26c3f35d9feec1e669b04da3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_715635851e03885b37ce91810e32ef2f59eb39ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/3fa2e04666f530700f6c27fc960122b510dc1e75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d9e40be3c692a40dcf115c147eb4c5fef8810da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/253ab4575046ea1928eba1849f46b1124309a5a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_610f9d97694791193df5ccca7732054a13933945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/5d4235447ad5383aa4c89d8b11b10860a8dff60e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d14aaee06f7b9281f2e8037e5bb0fb6694b16b0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/e62d703f80a16953cbfd86bee3fd7d6938aa3fca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db12496024ffa8791fe94aae6842f75a28188e9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/33196e6379b24c4cd927556f0a5b729108e91d90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_363e263b611a9ea6b6c505ca6ff0e354e274e457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/cfa8d7f7c699e564822861557504eccd18c65cf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66c41308d980c2ca337b7c3c606111c12eb2c2f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/0f81da27c569df675bb6dc1b22918ec3e911cb08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3e4919cb159a6b132075339bf5151e6ef17a49f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/objenesis-2.1_f0c1d6802ff10924f185f454940ec5cfe771236a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/2e1920365cb0195d415c74e3125c978119e22d14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be65fa17f3b5de007d6f7fe16a55309f7866a79c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/eee2eb27d74160d19337c4a5888b7fd4941e9eb3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa367b1f8e0f8f17e32379daa2969d37c2de321a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/cb23e6c541b2aba690f0ab6d7dac8abb7d1dc6fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2dae18a7afe720a254a62d8bc260c3771e143e3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/55e13ca2181b8a02e7d3d4976b657415e86cacff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02b0ec1918054f93037a77259939d36c6b7fa46a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/c43a2b20c4ed442ce140a08bbbcaf13c1ff62b53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbb7de647b7a84c364da8f59232b72933a9dfdb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/56938e22801e5c899a832635fc9c2aefffe510bb/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_5a5e5c595c0a2af9fe5dda9e89938ad6865590fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/3d9fc513a0d492ffd85d9ffd079fd7fe8b690042/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_05c44df3522986103d787e4d98b2a52daa5cf728/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/aa56c0fde5a777bac2fa5849d76bc4f2ab3776de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfca50d37607153bc00940d1fc69d0aece6d6b83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/8bef80f267d78769b28a6e1ba75a92d9ed79d4c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe1878d35bbc03ceb2e542a373770cba86b1da9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/eda8fefaa352a9f22e67fe4dc9511ba283a52a25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3508d5512bf0a013243a9a7ba4e5040de7a90be1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/49010d3f57cd8cf7a4c3c65c515ae4c7f40749bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f378c65148e23ee6d6c9c1642443e917bd9608c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/981569f58e60f2323e0c1db836133e3430cfb75a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95153d27cdd02ee9da5b8670ed49d00f706cc674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/4b2c5ddf114d3f0c63834c95e400fa178949c9c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8fe7d4f903d2434befae36f64ca1311313b11d3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/def3a5002fada7017dc7e7957caaa7c11e317fd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_beb6556a480d83f661d7cb4fb727dbe64f8b29c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/f0fe0f2c3e6558e88713cda76b06e92ab6d27169/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43b37058e3b299ff02b3619581ecd5744493a09c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/9b79fad215f9d93f6c246d6374b6e0f8947bd1ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81c1e9eae742db3cb135bd643b9802c0a5cb05d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/2b7927a14c79bd18e6702417ab9a5f2a057a5c72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce1b9cf993d455ef35c7fd5766b4168b8fc1cf60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/3d9fc513a0d492ffd85d9ffd079fd7fe8b690042/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47b3d1493db8e1249e8ef4dfc55daada4329a9bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/ac6e72f0a00e1a6b8f2518bc2dc9ea8059dc3bc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5780b242d65f4628107d233f79f09613fa530468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/8a6b964cec297c123c9ccab2e5b90d91fc20b761/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3185cbb96d5f4be590721ee0c512ef41fc104590/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/48843c6c1296ebf47aaf7d69f5993d3901a1fe30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_560a243eb2318ccce45264e980fed48c08a688dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/55cadc7a123284e51e43315e20b1b4286f316bdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fee99f1d010b4447e994155b88d765348310f63a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/984230955f05f5eb31613e0d1067c2ad88be8170/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35fe3275837302d047adf342267401a2962e41d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/110064591eeb18a0199d01bb1435daacabb8a816/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f16920890cb0f43138671e02e840a51e68dd36d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/56938e22801e5c899a832635fc9c2aefffe510bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3202795ef1689db0774959f7287ef926b0aac2a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/217974536f55cffa446448b31afef32f3b10e773/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb58228a52adc42c5d18ea64c9a8077a9b73fc3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/087f9ff996a0826ae4a1a01a1202fa3f91c2b1ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7535ff2d66eb6eb79206439a45f26faa04e0181a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/438068d9621943252c1c101d1fed383b48683e5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acc1c12133865452da8352f160e9c855433b69fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/953dad911ba803c0369ddbab5c61403e08dd221d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43593529b263f7d3962c8fd8918cd7d702349cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/8510a701aa4d44b6e83c3d35b6b0b62cdc3d230b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86e398fe06e31254a730e0bab106edda5e90683a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/060837de4c1987c3f9d706dbda32fb2ade2d66c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45f8ac42c569cf2aa30dff625088bf7795d2e6a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/931e7da4bfa5e6a4f8ab4d31532cf4e48018798d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f1ef83793de809265dadf97022ca5150cb80b5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/368b6b74cf9fc2abc7614db322c8ff5d43f129f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe596d7a058f7b98a45835c41a916c86122dac0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/ea7ab4232dfc820fbafbb1a358b5392348d36406/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fdd84f0cf6cc1f18508e95551cf706a40467e1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/880549d78a05dedc187146d7558976d1ae873424/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_142910c8b45ceff5475b96553bc602f26c3391be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamsharma/.android/build-cache/cd95e574bc6c240a9264eb8a6ec3a44be2367a61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/shubhamsharma/Desktop/Company1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b3642e78f2f2b476d8495fa73d31bd0f19b0b26/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,36 @@
+---Users---
+user_id INT PK
+user_idtype CHAR
+user_name CHAR
+user_email CHAR
+user_phone INT
+user_firstname CHAR
+user_lastname CHAR
+user_state CHAR
+user_country CHAR
+user_occupation CHAR
+user_dob DATE
+user_accountcreationdate DATE
+user_sex CHAR
+
+---Roles---
+role_id INT PK
+user_id INT FK
+role_name CHAR
+role_description VARCHAR
+
+---Logins----
+login_id INT PK
+user_id INT FK
+login_pasword CHAR
+login_time DATE 
+
+---Photos----
+pic_profilepic_id INT PK
+pic_idphoto_id INT PK
+user_id INT FK
+pic_profilepic_name CHAR
+pic_profilepic_desc VARCHAR
+pic_idphoto_name CHAR
+pic_idphoto_desc VARCHAR
+pic_uploadtime DATE
