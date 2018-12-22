@@ -1,0 +1,16 @@
+server: server.c stringEncoder.c
+     gcc -o server server.c stringEncoder.c -I.
+     
+client: client.c stringEncoder.c
+     gcc -o client client.c stringEncoder.c -I.
+     
+     
+     
+     
+     
+     
+// I used the following gcc command to test my project on my local mac I needed to load the openssl folder
+
+
+    gcc -o client client.c stringEncoder.c -I /usr/local/opt/openssl/include  -L/usr/local/opt/openssl/lib -lcrypto.
+ 	gcc -o server server.c stringEncoder.c -I /usr/local/opt/openssl/include -lpthread -lcrypto
